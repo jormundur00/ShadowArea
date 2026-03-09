@@ -1,3 +1,3 @@
 # ShadowArea
 
-Project for the Computational Topology course on the Faculty of Mathematics, University of Belgrade.
+Project for the Computational Geometry course on the Faculty of Mathematics, University of Belgrade.
